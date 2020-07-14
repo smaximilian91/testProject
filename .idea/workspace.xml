@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Entwicklungs-Tools/gruppe3-grundlagenschulung-entwicklungstools" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/documentation-project" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/test-project" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/webapp-project" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+</project>
